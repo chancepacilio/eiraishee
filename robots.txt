@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eilahcoom.oaspaceapps.co/sitemap.xml
